@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,800,100,"source_id,page,page_end,year,document_type,chapter,article",không,"OpenAI text-embedding-3-small (1536d), pgvector cosine exact","Baseline: chunk cố định 800/100 cắt ngang Điều/Khoản -> evidence có thể bị tách, Hit@3 thấp nhất.",41/160 (25.6%),81/160 (50.6%),10/40 (25.0%),17/40 (42.5%),
+B,by_article,1500,0,"source_id,page,page_end,year,document_type,chapter,article",không,"OpenAI text-embedding-3-small (1536d), pgvector cosine exact",Chunk theo Điều giữ trọn ý pháp lý -> Hit@3 cao hơn A; nhưng vẫn nhầm giữa BLLĐ 2012 và 2019 vì nội dung gần giống.,79/160 (49.4%),120/160 (75.0%),20/40 (50.0%),28/40 (70.0%),
+C,by_article,1500,0,"source_id,page,page_end,year,document_type,chapter,article",year/document_id khi câu hỏi có filter,"OpenAI text-embedding-3-small (1536d), pgvector cosine exact","Như B + lọc year/document_id khi câu hỏi nêu văn bản -> tăng Hit@3 ở câu có filter, câu không filter giữ nguyên như B.",91/160 (56.9%),128/160 (80.0%),22/40 (55.0%),29/40 (72.5%),C dùng chung index B

@@ -1,0 +1,839 @@
+﻿strategy,qid,question,expected_answer,top3,auto_hit3,grounding(0-2),ly_do,nguoi_cham
+A,q016,"Theo Bộ luật Lao động 2012, người lao động được nghỉ bao nhiêu ngày vào dịp Quốc khánh?",01 ngày (ngày 02 tháng 9 dương lịch).,"#1 [nd-145-2020-cb1203 tr.59-59 Điều 66]
+ho ản 2 Điều 113 c ủa B ộ lu ật Lao động được tính nh ư sau: l ấy s ố
+ngày nghỉ hằng năm cộng với số ngày được nghỉ tăng thêm theo thâm niên (n ếu
+có), chia cho 12 tháng, nhân v ới số tháng làm việc thực tế trong năm để tính thành
+số ngày được nghỉ hằng năm.
+2. Trường hợp người lao động làm vi ệc chưa đủ tháng, n ếu tổng số ngày làm
+việc và ngày nghỉ có hưởng lương của người lao động (nghỉ lễ, tết, nghỉ hằng năm,
+nghỉ việc riêng có h ưởng lương theo Điều 112, Điều 113, Điều 114 và Điều 115
+của B ộ lu ật Lao động) chi ếm t ỷ l ệ t ừ 50% s ố ngày làm vi ệc bình th ường trong
+tháng theo thỏa thuận thì tháng đó được tính là 01 tháng làm việc để tính ngày nghỉ
+hằng năm.
+3. Toàn b ộ thời gian người lao động làm vi ệc tại các c ơ quan, tổ chức, đơn vị
+thuộc khu vực nhà nước và doanh nghiệp nhà
+
+#2 [blld-2019 tr.23-24 Điều 111]
+i lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường hợp đặc biệt do chu kỳ lao động không
+thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình
+quân 01 tháng ít nhất 04 ngày.
+2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày Chủ nhật hoặc ngày xác định
+khác trong tuần nhưng phải ghi vào nội quy lao động.
+3. Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1 Điều 112 của Bộ luật này thì người lao
+động được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp.
+Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch: 05 ngày;
+c) Ngày Chiến thắng:
+
+#3 [blld-2019 tr.23-24 Điều 112]
+Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch: 05 ngày;
+c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);
+d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);
+đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);
+e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
+2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn
+được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.
+3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và
+điểm đ khoản 1 Điều này.
+Điều 113. Nghỉ hằng năm
+1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng",0,0,"Không có chunk nào của BLLĐ 2012; #3 là Điều 112 BLLĐ 2019 ghi 'Quốc khánh: 02 ngày' -> sai phiên bản, dễ dẫn tới trả lời sai.",Claude (AI) 2026-11-14 - học viên cần rà soát
+A,q017,"Theo Nghị định 145/2020/NĐ-CP, thành viên tổ lái tàu bay có hợp đồng lao động không xác định thời hạn phải báo trước ít nhất bao nhiêu ngày khi đơn phương chấm dứt hợp đồng?",Ít nhất 120 ngày.,"#1 [blld-2019 tr.9-9 Điều 36]
+ao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên;
+g) Người lao động cung cấp không trung thực thông tin theo quy định tại khoản 2 Điều 16 của Bộ luật này khi giao
+kết hợp đồng lao động làm ảnh hưởng đến việc tuyển dụng người lao động.
+2. Khi đơn phương chấm dứt hợp đồng lao động trong trường hợp quy định tại các điểm a, b, c, đ và g khoản 1 Điều
+này, người sử dụng lao động phải báo trước cho người lao động như sau:
+a) Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn;
+b) Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng;
+c) Ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường
+hợp quy định tại điểm b khoản 1 Điều này;
+d) Đối với
+
+#2 [blld-2012 tr.12-12 Điều 37]
+ã đi ều trị 90 ngày liên t ục đối với
+người làm việc theo hợp đồng lao động xác định thời hạn và một phần tư thời hạn
+hợp đồng đối với người làm vi ệc theo hợp đồng lao đ ộng theo mùa v ụ hoặc theo
+một công vi ệc nhất định có thời h ạn dưới 12 tháng mà khả năng lao đ ộng chưa
+được hồi phục.
+2. Khi đơn phương ch ấm dứt hợp đồng lao động theo quy đ ịnh tại khoản 1
+Điều này, người lao động phải báo cho người sử dụng lao động biết trước:
+a) Ít nhất 3 ngày làm việc đối với các trường hợp quy định tại các điểm a, b,
+c và g khoản 1 Điều này;
+b) Ít nh ất 30 ngày n ếu là h ợp đồng lao động xác định thời hạn; ít nh ất 03
+ngày làm việc nếu là hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất
+định có thời hạn dưới 12 tháng đối với các trường hợp quy định tại điểm d và điểm
+đ khoản 1 Điều
+
+#3 [blld-2019 tr.8-8 Điều 35]
+àm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng;
+d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính
+phủ.
+2. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp sau
+đây:
+a) Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc theo thỏa
+thuận, trừ trường hợp quy định tại Điều 29 của Bộ luật này;
+b) Không được trả đủ lương hoặc trả lương không đúng thời hạn, trừ trường hợp quy định tại khoản 4 Điều 97 của
+Bộ luật này;
+c) Bị người sử dụng lao động ngược đãi, đánh đập hoặc có lời nói, hành vi nhục mạ, hành vi làm ảnh hưởng đến
+sức khỏe, nhân phẩm, danh dự; bị cưỡng bức lao động;
+d) Bị quấy rối tình dục tại nơi làm",0,0,"Không có NĐ 145; #3 (Điều 35 BLLĐ 2019) chỉ dẫn chiếu 'theo quy định của Chính phủ', không có con số 120 ngày.",Claude (AI) 2026-11-14 - học viên cần rà soát
+A,q018,"Tôi nghỉ việc sau 4 năm làm ở công ty, công ty phải trả trợ cấp thôi việc theo cách tính nào?",Nếu làm việc thường xuyên từ đủ 12 tháng trở lên: mỗi năm làm việc được trợ cấp một nửa tháng tiền lương (trừ trường hợp đủ điều kiện hưởng lương hưu...).,"#1 [blld-2012 tr.44-45 Điều 157]
+ó thể trở lại làm việc khi đã nghỉ ít nhất được
+04 tháng.
+Trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử
+dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản theo quy
+định của pháp luật về bảo hiểm xã hội.
+Điều 158. Bảo đảm việc làm cho lao động nữ nghỉ thai sản
+Lao động nữ được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời
+gian theo quy định tại khoản 1 và khoản 3 Điều 157 của Bộ luật này; trường hợp việc
+làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với
+mức lương không thấp hơn mức lương trước khi nghỉ thai sản.
+Điều 159. Trợ cấp khi nghỉ để chăm sóc con ốm, khám thai, thực hiện các
+biện pháp tránh thai
+Thời gian ngh ỉ việc khi khám thai, s ẩy thai, n ạo, hút thai, th ai chết lưu, phá
+thai
+
+#2 [blld-2019 tr.11-11 Điều 46]
+t nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi
+người lao động thôi việc.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12
+tháng trở lên mà bị mất việc làm theo quy định tại khoản 11 Điều 34 của Bộ luật này, cứ mỗi năm làm việc trả 01
+tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử
+dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất
+
+#3 [blld-2019 tr.11-11 Điều 46]
+hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì
+người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình
+từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng
+lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của
+Bộ luật này.
+2. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng
+lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm
+thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất",1,2,"#3 (Điều 46 BLLĐ 2019, tr.11) có đủ điều kiện từ đủ 12 tháng, mức một nửa tháng lương/năm và ngoại lệ lương hưu; #2 bổ sung tiền lương bình quân 06 tháng.",Claude (AI) 2026-11-14 - học viên cần rà soát
+A,q019,"Theo luật, ca đêm được tính từ mấy giờ đến mấy giờ?",Từ 22 giờ đến 06 giờ sáng ngày hôm sau.,"#1 [blld-2019 tr.22-23 Điều 105]
+nguy hiểm, yếu tố
+có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.
+Điều 106. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
+Điều 107. Làm thêm giờ
+1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường theo quy định của pháp
+luật, thỏa ước lao động tập thể hoặc nội quy lao động.
+2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu sau đây:
+a) Phải được sự đồng ý của người lao động;
+b) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; trường
+hợp áp dụng quy định thời giờ làm việc bình thường theo tuần thì tổng số giờ làm việc bình thường và số giờ làm
+thêm không quá 12 giờ trong 01 ngày; không
+
+#2 [nd-145-2020-cb1203 tr.52-53 Điều 56]
+sản
+phẩm của
+ngày làm việc
+bình thường
+x
+Mức
+ít
+nhất
+30%
+x
+Số sản
+phẩm làm
+vào ban
+đêm
+Điều 57. Tiền lương làm thêm giờ vào ban đêm
+Người lao động làm thêm gi ờ vào ban đêm theo khoản 3 Điều 98 c ủa Bộ luật
+Lao động, được hưởng tiền lương tính theo công thức sau:
+1. Đối với người lao động hưởng lương theo thời gian, tiền lương làm thêm giờ
+vào ban đêm được tính như sau:
+Tiền
+lương
+làm
+thêm
+giờ vào
+ban
+đêm
+=
+
+Tiền lương
+giờ thực trả
+của công
+việc đang
+làm vào
+ngày làm
+việc bình
+thường
+x
+Mức ít
+nhất
+150%
+hoặc
+200%
+hoặc
+300%
++
+Tiền
+lương giờ
+thực trả
+của công
+việc đang
+làm vào
+ngày làm
+việc bình
+thường
+x
+Mức ít
+nhất
+30%
++ 20% x
+Tiền lương giờ
+vào ban ngày
+của ngày làm
+việc bình
+thường hoặc
+của ngày nghỉ
+hằng tuần hoặc
+của ngày nghỉ
+lễ, tết, ngày
+nghỉ có hưởng
+lương
+x
+Số
+giờ
+làm
+thêm
+vào
+ban
+
+#3 [blld-2012 tr.31-31 Điều 107]
+thêm giờ trong những trường hợp đặc biệt
+Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất
+kỳ ngày nào và người lao động không được từ chối trong các trường hợp sau đây:
+1. Thực hi ện l ệnh động viên, huy đ ộng b ảo đ ảm nhiệm vụ quốc phòng, an
+ninh trong tình trạng khẩn cấp về quốc phòng, an ninh theo quy định của pháp luật;
+2. Thực hiện các công vi ệc nhằm bảo vệ tính mạng con người, tài sản của cơ
+quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn,
+dịch bệnh và thảm họa.
+
+Mục 2
+THỜI GIỜ NGHỈ NGƠI
+Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều
+104 của Bộ luật này được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc.
+2. Trường hợp làm vi ệc ban đêm, thì ngư",1,2,#1 chứa nguyên câu Điều 106: 22 giờ đến 06 giờ sáng hôm sau; truy được nguồn/trang (dù metadata article ghi Điều 105).,Claude (AI) 2026-11-14 - học viên cần rà soát
+A,q020,Nghị định hướng dẫn Bộ luật Lao động về điều kiện lao động và quan hệ lao động có hiệu lực thi hành từ ngày nào?,Từ ngày 01 tháng 02 năm 2021.,"#1 [blld-2019 tr.46-46 Điều 220]
+ệu lực thi hành từ ngày 01 tháng 01 năm 2021.
+Bộ luật Lao động số 10/2012/QH13 hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực.
+2. Kể từ ngày Bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp
+pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so
+với quy định của Bộ luật này được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung
+để phù hợp và để áp dụng quy định của Bộ luật này.
+3. Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân
+dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác
+quy định nhưng tùy từng đối tượng mà được áp
+
+#2 [nd-145-2020-cb1203 tr.1-2 None]
+h phủ ban hành Nghị định quy định chi tiết và hướng dẫn thi hành một số
+điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động.
+
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+Nghị định này quy định chi ti ết và h ướng d ẫn thi hành m ột s ố nội dung v ề
+điều ki ện lao động và quan h ệ lao động theo các điều, kho ản sau đây c ủa B ộ
+luật Lao động:
+1. Quản lý lao động theo khoản 3 Điều 12.
+2. Hợp đồng lao động theo khoản 4 Điều 21; điểm d khoản 1 Điều 35, điểm d
+khoản 2 Điều 36; khoản 4 Điều 46; khoản 4 Điều 47; khoản 3 Điều 51.
+3. Cho thuê lại lao động theo khoản 2 Điều 54.
+4. Tổ chức đối thoại và thực hiện quy chế dân chủ ở cơ sở tại nơi làm việc theo
+khoản 4 Điều 63.
+5. Tiền lương theo khoản 3 Điều 92; khoản 3 Điều 96; khoản 4 Điều 98.
+6. Th ời gi ờ làm vi ệc, th
+
+#3 [nd-145-2020-cb1205 tr.11-12 Điều 113]
+m ức độ vi phạm, người lao động
+bị xử lý kỷ luật theo quy định của nội quy lao động và quy định của pháp luật.
+
+Chương XI
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 114. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2021.
+2. Kể từ ngày Ngh ị định này có hi ệu lực thi hành, các Ngh ị định sau đây hết
+hiệu lực thi hành:
+a) Nghị định số 03/2014/NĐ-CP ngày 16 tháng 01 n ăm 2014 c ủa Chính ph ủ
+quy định chi tiết thi hành một số điều của Bộ luật Lao động về việc làm;
+b) Nghị định s ố 44/2013/N Đ-CP ngày 09 tháng 5 n ăm 2013 c ủa Chính ph ủ
+quy định chi ti ết thi hành m ột s ố điều c ủa B ộ lu ật Lao động v ề h ợp đồng lao
+động; Ngh ị định số 05/2015/N Đ-CP ngày 12 tháng 01 n ăm 2015 c ủa Chính ph ủ
+quy định chi ti ết và h ướng dẫn thi hành m ột số nội dung c ủa Bộ luật Lao",1,2,"#3 (NĐ 145 tr.11) có 'hiệu lực kể từ ngày 01/02/2021'; nhưng #1 là hiệu lực BLLĐ 2019 (01/01/2021) -> nhiễu, có rủi ro trả lời nhầm.",Claude (AI) 2026-11-14 - học viên cần rà soát
+B,q016,"Theo Bộ luật Lao động 2012, người lao động được nghỉ bao nhiêu ngày vào dịp Quốc khánh?",01 ngày (ngày 02 tháng 9 dương lịch).,"#1 [blld-2019 tr.23-23 Điều 111]
+Điều 111. Nghỉ hằng tuần
+1. Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường hợp đặc biệt do chu kỳ lao động không
+thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình
+quân 01 tháng ít nhất 04 ngày.
+2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày Chủ nhật hoặc ngày xác định
+khác trong tuần nhưng phải ghi vào nội quy lao động.
+3. Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1 Điều 112 của Bộ luật này thì người lao
+động được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp.
+
+#2 [blld-2019 tr.24-24 Điều 113]
+Điều 113. Nghỉ hằng năm
+1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên
+lương theo hợp đồng lao động như sau:
+a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;
+b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc
+nặng nhọc, độc hại, nguy hiểm;
+c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.
+2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ
+tương ứng với số tháng làm việc.
+3. Trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì
+được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ.
+4. Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi tham khảo ý kiến của người lao động
+và phải thông báo trước cho người lao động biết. Người lao động có thể thỏa thuận với người sử dụng lao động để
+nghỉ hằng năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.
+5. Khi nghỉ hằng năm mà chưa đến kỳ trả lương, người lao động được tạm ứng tiền lương theo quy định tại khoản 3
+Điều 101 của Bộ luật này.
+
+#3 [blld-2019 tr.23-24 Điều 112]
+Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch: 05 ngày;
+c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);
+d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);
+đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);
+e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
+2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn
+được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.
+3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và
+điểm đ khoản 1 Điều này.",0,0,Cả 3 chunk đều là BLLĐ 2019; Điều 112 (2019) ghi Quốc khánh 02 ngày -> mâu thuẫn với câu hỏi về bản 2012.,Claude (AI) 2026-11-14 - học viên cần rà soát
+B,q017,"Theo Nghị định 145/2020/NĐ-CP, thành viên tổ lái tàu bay có hợp đồng lao động không xác định thời hạn phải báo trước ít nhất bao nhiêu ngày khi đơn phương chấm dứt hợp đồng?",Ít nhất 120 ngày.,"#1 [blld-2019 tr.8-8 Điều 35]
+Điều 35. Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
+1. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao
+động như sau:
+a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn;
+b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng;
+c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng;
+d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính
+phủ.
+
+#2 [blld-2012 tr.12-13 Điều 38]
+Điều 38. Quyền đơn phương chấm dứt hợp đồng lao động của người sử
+2. Khi đơn phương chấm dứt hợp đồng lao động người sử dụng lao động phải
+báo cho người lao động biết trước:
+a) Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn;
+b) Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn;
+c) Ít nhất 03 ngày làm việc đối với trường hợp quy định tại điểm b khoản 1 Điều
+này và đối với hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có
+thời hạn dưới 12 tháng.
+
+#3 [nd-145-2020-cb1203 tr.7-7 Điều 7]
+Điều 7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động
+đối với một số ngành, nghề, công việc đặc thù
+Ngành, nghề, công vi ệc đặc thù và th ời hạn báo tr ước khi đơn phương chấm
+dứt h ợp đồng lao động quy định tại điểm d kho ản 1 Điều 35 và điểm d kho ản 2
+Điều 36 của Bộ luật Lao động như sau:
+1. Ngành, nghề, công việc đặc thù gồm:
+a) Thành viên t ổ lái tàu bay; nhân viên k ỹ thuật bảo dưỡng tàu bay, nhân viên
+sửa chữa chuyên ngành hàng không; nhân viên điều độ, khai thác bay;
+b) Ng ười qu ản lý doanh nghi ệp theo quy định c ủa Lu ật Doanh nghi ệp; Lu ật
+Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp;
+c) Thuyền viên thuộc thuyền bộ làm việc trên tàu Vi ệt Nam đang hoạt động ở
+nước ngoài; thuy ền viên được doanh nghi ệp Việt Nam cho thuê l ại làm vi ệc trên
+tàu biển nước ngoài;
+d) Trường hợp khác do pháp luật quy định.
+2. Khi ng ười lao động làm ngành, ngh ề, công vi ệc quy định tại khoản 1 Điều
+này đơn phương chấm dứt h ợp đồng lao động hoặc người s ử dụng lao động đơn
+phương chấm dứt h ợp đồng lao động đối v ới nh ững ng ười lao động này thì th ời
+hạn báo trước như sau:
+a) Ít nh ất 120 ngày đối với hợp đồng lao động không xác định thời hạn hoặc
+hợp đồng lao động xác định thời hạn từ 12 tháng trở lên;
+b) Ít nhất bằng một phần tư thời hạn của hợp đồng lao động đối với hợp đồng
+lao động có thời hạn dưới 12 tháng.",1,2,#3 là trọn Điều 7 NĐ 145: liệt kê tổ lái tàu bay và 'ít nhất 120 ngày' cho HĐ không xác định thời hạn; #1-#2 (45 ngày) là nhiễu.,Claude (AI) 2026-11-14 - học viên cần rà soát
+B,q018,"Tôi nghỉ việc sau 4 năm làm ở công ty, công ty phải trả trợ cấp thôi việc theo cách tính nào?",Nếu làm việc thường xuyên từ đủ 12 tháng trở lên: mỗi năm làm việc được trợ cấp một nửa tháng tiền lương (trừ trường hợp đủ điều kiện hưởng lương hưu...).,"#1 [blld-2019 tr.11-11 Điều 46]
+Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì
+người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình
+từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng
+lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của
+Bộ luật này.
+2. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng
+lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm
+thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi
+người lao động thôi việc.
+4. Chính phủ quy định chi tiết Điều này.
+
+#2 [blld-2012 tr.15-15 Điều 48]
+Điều 48. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy đ ịnh tại các khoản 1, 2, 3, 5, 6,
+7, 9 và 10 Điều 36 của Bộ luật này thì người sử dụng lao động có trách nhi ệm chi
+trả trợ cấp thôi việc cho người lao động đã làm vi ệc thường xuyên từ đủ 12 tháng
+trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương.
+2. Th ời gian làm vi ệc đ ể tính tr ợ cấp thôi vi ệc là tổng th ời gian ngư ời lao
+động đã làm vi ệc thực tế cho người sử dụng lao đ ộng trừ đi thời gian ngư ời lao
+động đã tham gia bảo hiểm thất nghiệp theo quy định của Luật bảo hiểm xã hội và
+thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân theo h ợp đồng
+lao động của 06 tháng liền kề trước khi người lao động thôi việc.
+
+#3 [nd-145-2020-cb1203 tr.11-12 Điều 8]
+Điều 8. Trợ cấp thôi việc, trợ cấp mất việc làm
+5. Tiền lương để tính tr ợ cấp thôi vi ệc, tr ợ cấp mất vi ệc làm được quy định
+như sau:
+a) Tiền lương để tính trợ cấp thôi việc, trợ cấp mất việc làm là tiền lương bình
+quân của 06 tháng li ền kề theo h ợp đồng lao động trước khi ng ười lao động thôi
+việc, mất việc làm.
+b) Trường hợp người lao động làm việc cho người sử dụng lao động theo nhiều
+hợp đồng lao động kế tiếp nhau theo quy định tại khoản 2 Điều 20 của Bộ luật Lao
+động thì ti ền l ương để tính tr ợ c ấp thôi vi ệc, tr ợ c ấp mất vi ệc làm là ti ền l ương
+bình quân c ủa 06 tháng li ền k ề theo h ợp đồng lao động tr ước khi ch ấm dứt h ợp
+đồng lao động cuối cùng. Trường hợp hợp đồng lao động cuối cùng bị tuyên bố vô
+hiệu vì có n ội dung ti ền lương thấp hơn mức lương tối thiểu vùng do Chính ph ủ
+công bố hoặc mức lương ghi trong thỏa ước lao động tập thể thì tiền lương làm căn
+cứ tính tr ợ cấp thôi vi ệc do hai bên th ỏa thuận nhưng không th ấp hơn mức lương
+tối thiểu vùng hoặc mức lương ghi trong thỏa ước lao động tập thể.
+6. Kinh phí chi tr ả trợ c ấp thôi vi ệc, tr ợ c ấp mất vi ệc làm đối v ới ng ười lao
+động được hạch toán vào chi phí sản xuất, kinh doanh hoặc kinh phí hoạt động của
+người sử dụng lao động.
+
+Mục 3
+XỬ LÝ HỢP ĐỒNG LAO ĐỘNG VÔ HIỆU",1,2,"#1 trọn Điều 46 BLLĐ 2019: điều kiện, mức trợ cấp, ngoại lệ, cách tính thời gian và tiền lương.",Claude (AI) 2026-11-14 - học viên cần rà soát
+B,q019,"Theo luật, ca đêm được tính từ mấy giờ đến mấy giờ?",Từ 22 giờ đến 06 giờ sáng ngày hôm sau.,"#1 [blld-2012 tr.30-30 Điều 105]
+Điều 105. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau.
+
+#2 [blld-2019 tr.22-22 Điều 106]
+Điều 106. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
+
+#3 [nd-145-2020-cb1203 tr.52-52 Điều 56]
+Điều 56. Tiền lương làm việc vào ban đêm
+Tiền lương làm việc vào ban đêm theo khoản 2 Điều 98 của Bộ luật Lao động,
+được tính theo công thức sau:
+1. Đối với người lao động hưởng lương theo thời gian, tiền lương làm việc vào
+ban đêm được tính như sau:
+Tiền
+lương
+làm
+việc
+vào ban
+đêm
+
+=
+Tiền lương giờ
+thực trả của
+công việc đang
+làm vào ngày
+làm việc bình
+thường
++
+Tiền lương giờ
+thực trả của
+công việc
+đang làm vào
+ngày làm việc
+bình thường
+x
+
+Mức ít
+nhất
+30%
+x
+Số giờ
+làm
+việc
+vào
+ban
+đêm
+Trong đó: Tiền lương giờ thực trả của công vi ệc đang làm vào ngày làm vi ệc
+bình thường được xác định theo điểm a khoản 1 Điều 55 Nghị định này.
+2. Đối v ới ng ười lao động h ưởng l ương theo s ản ph ẩm, ti ền l ương làm vi ệc
+vào ban đêm được tính như sau:
+Tiền
+lương
+làm việc
+vào ban
+đêm
+
+=
+Đơn giá tiền
+lương sản
+phẩm của
+ngày làm
+việc bình
+thường
++
+Đơn giá tiền
+lương sản
+phẩm của
+ngày làm việc
+bình thường
+x
+Mức
+ít
+nhất
+30%
+x
+Số sản
+phẩm làm
+vào ban
+đêm",1,2,#1 (BLLĐ 2012 Điều 105) và #2 (BLLĐ 2019 Điều 106) đều nêu 22 giờ đến 6/06 giờ sáng hôm sau.,Claude (AI) 2026-11-14 - học viên cần rà soát
+B,q020,Nghị định hướng dẫn Bộ luật Lao động về điều kiện lao động và quan hệ lao động có hiệu lực thi hành từ ngày nào?,Từ ngày 01 tháng 02 năm 2021.,"#1 [blld-2019 tr.46-46 Điều 220]
+Điều 220. Hiệu lực thi hành
+1. Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
+Bộ luật Lao động số 10/2012/QH13 hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực.
+2. Kể từ ngày Bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp
+pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so
+với quy định của Bộ luật này được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung
+để phù hợp và để áp dụng quy định của Bộ luật này.
+3. Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân
+dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác
+quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong Bộ luật này.
+Bộ luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 20
+tháng 11 năm 2019./.
+
+CHỦ TỊCH QUỐC HỘI
+
+#2 [blld-2012 tr.67-67 Điều 240]
+Điều 240. Hiệu lực của Bộ luật lao động
+1. Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 05 năm 2013.
+Bộ luật lao động ngày 23 tháng 6 năm 1994, Luật sửa đổi, bổ sung một số điều
+của Bộ luật lao động số 35/2002/QH10, Luật sửa đổi, bổ sung một số điều của Bộ luật
+lao động số 74/2006/QH11 và Luật sửa đổi, bổ sung một số điều của Bộ luật lao động
+số 84/2007/QH11 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực.
+2. Kể từ ngày Bộ luật này có hiệu lực thi hành:
+a) Các hợp đồng lao đ ộng, thoả ước lao động tập thể, những thoả thuận hợp
+pháp khác đã giao k ết và nh ững thoả thuận có l ợi hơn cho ngư ời lao đ ộng so v ới
+quy định của Bộ luật này được tiếp tục thực hiện; những thoả thuận không phù hợp
+với quy định của Bộ luật phải được sửa đổi, bổ sung;
+b) Quy định về thời gian hưởng chế độ khi sinh con tại Luật bảo hiểm xã hội
+số 71/2006/QH11 được thực hiện theo quy định của Bộ luật này.
+Lao động nữ nghỉ sinh con trước ngày Bộ luật này có hi ệu lực, mà đến ngày
+01 tháng 5 năm 2013 vẫn đang trong thời gian nghỉ sinh con theo quy định tại Luật
+bảo hiểm xã h ội số 71/2006/QH11 thì thời gian hưởng chế độ khi sinh con được
+thực hiện theo quy định của Bộ luật này.
+
+#3 [nd-145-2020-cb1205 tr.11-12 Điều 114]
+Điều 114. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2021.
+2. Kể từ ngày Ngh ị định này có hi ệu lực thi hành, các Ngh ị định sau đây hết
+hiệu lực thi hành:
+a) Nghị định số 03/2014/NĐ-CP ngày 16 tháng 01 n ăm 2014 c ủa Chính ph ủ
+quy định chi tiết thi hành một số điều của Bộ luật Lao động về việc làm;
+b) Nghị định s ố 44/2013/N Đ-CP ngày 09 tháng 5 n ăm 2013 c ủa Chính ph ủ
+quy định chi ti ết thi hành m ột s ố điều c ủa B ộ lu ật Lao động v ề h ợp đồng lao
+động; Ngh ị định số 05/2015/N Đ-CP ngày 12 tháng 01 n ăm 2015 c ủa Chính ph ủ
+quy định chi ti ết và h ướng dẫn thi hành m ột số nội dung c ủa Bộ luật Lao động;
+Nghị định s ố 148/2018/N Đ-CP ngày 24 tháng 10 n ăm 2018 c ủa Chính ph ủ sửa
+đổi, b ổ sung m ột s ố điều c ủa Ngh ị định s ố 05/2015/N Đ-CP ngày 12 tháng 01
+năm 2015 c ủa Chính ph ủ quy định chi ti ết và h ướng d ẫn thi hành m ột s ố n ội
+dung của Bộ luật Lao động;
+c) Nghị định số 29/2019/NĐ-CP ngày 20 tháng 3 năm 2019 của Chính phủ quy
+định chi tiết thi hành khoản 3 Điều 54 của Bộ luật Lao động về việc cấp phép hoạt
+động cho thuê lại lao động, việc ký quỹ và danh mục công việc được thực hiện cho
+thuê lại lao động;
+d) Nghị định số 149/2018/NĐ-CP ngày 07 tháng 11 n ăm 2018 của Chính phủ
+quy định chi tiết khoản 3 Điều 63 của Bộ luật Lao động về thực hiện quy chế dân
+chủ ở cơ sở tại nơi làm việc;",1,2,#3 trọn Điều 114 NĐ 145 có ngày 01/02/2021; #1-#2 là hiệu lực BLLĐ 2019/2012 -> nhiễu xếp trên.,Claude (AI) 2026-11-14 - học viên cần rà soát
+C,q016,"Theo Bộ luật Lao động 2012, người lao động được nghỉ bao nhiêu ngày vào dịp Quốc khánh?",01 ngày (ngày 02 tháng 9 dương lịch).,"#1 [blld-2012 tr.31-32 Điều 111]
+Điều 111. Nghỉ hằng năm
+1. Người lao đ ộng có đủ 12 tháng làm vi ệc cho một người sử dụng lao động
+thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau:
+a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;
+b) 14 ngày làm vi ệc đối với người làm công vi ệc nặng nhọc, độc hại, nguy
+hiểm hoặc người làm việc ở những nơi có có đi ều kiện sinh sống khắc nghiệt theo
+danh mục do Bộ Lao động - Thương binh và Xã h ội chủ trì phối hợp với Bộ Y tế
+ban hành hoặc lao động chưa thành niên hoặc lao động là người khuyết tật;
+c) 16 ngày làm việc đối với người làm công việc đặc biệt nặng nhọc, độc hại,
+nguy hiểm hoặc người làm việc ở những nơi có đi ều kiện sinh sống đặc biệt khắc
+nghiệt theo danh m ục do B ộ Lao động - Thương binh và Xã h ội chủ trì phối hợp
+với Bộ Y tế ban hành.
+2. Người s ử dụng lao đ ộng có quy ền quy đ ịnh lịch nghỉ hằng năm sau khi
+tham khảo ý kiến của người lao động và phải thông báo trước cho người lao động.
+3. Người lao động có thể thoả thuận với người sử dụng lao động để nghỉ hằng
+năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.
+4. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,
+đường sắt, đường thủy mà s ố ngày đi đư ờng cả đi và v ề trên 02 ngày thì t ừ ngày
+thứ 03 trở đi được tính thêm th ời gian đi đư ờng ngoài ngày ngh ỉ hằng năm và ch ỉ
+được tính cho 01 lần nghỉ trong năm.
+
+#2 [blld-2012 tr.33-33 Điều 115]
+Điều 115. Nghỉ lễ, tết
+1. Ngư ời lao động đư ợc ngh ỉ làm vi ệc, hư ởng nguyên lương trong nh ững
+ngày lễ, tết sau đây:
+a) Tết Dương lịch 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch 05 ngày;
+c) Ngày Chiến thắng 01 ngày (ngày 30 tháng 4 dương lịch);
+d) Ngày Quốc tế lao động 01 ngày (ngày 01 tháng 5 dương lịch);
+đ) Ngày Quốc khánh 01 ngày (ngày 02 tháng 9 dương lịch);
+e) Ngày Giỗ Tổ Hùng Vương 01 ngày (ngày 10 tháng 3 âm lịch).
+2. Lao động là công dân nước ngoài làm việc tại Việt Nam ngoài ngày nghỉ lễ
+theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân
+tộc và 01 ngày Quốc khánh của nước họ.
+3. Nếu những ngày ngh ỉ theo quy đ ịnh tại khoản 1 Đi ều này trùng vào ngày
+nghỉ hằng tuần, thì người lao động được nghỉ bù vào ngày kế tiếp.
+
+#3 [blld-2012 tr.31-31 Điều 110]
+Điều 110. Nghỉ hằng tuần
+1. Mỗi tuần, người lao đ ộng được nghỉ ít nhất 24 gi ờ liên tục. Trong trư ờng
+hợp đặc biệt do chu k ỳ lao động không thể nghỉ hằng tuần, thì ngư ời sử dụng lao
+động có trách nhi ệm bảo đ ảm cho ngư ời lao đ ộng đư ợc nghỉ tính bình quân 01
+tháng ít nhất 04 ngày.
+2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần
+vào ngày chủ nhật hoặc một ngày cố định khác trong tu ần nhưng phải ghi vào n ội
+quy lao động.",1,2,Filter year=2012 đúng; #2 trọn Điều 115 BLLĐ 2012: 'Ngày Quốc khánh 01 ngày (ngày 02 tháng 9 dương lịch)'.,Claude (AI) 2026-11-14 - học viên cần rà soát
+C,q017,"Theo Nghị định 145/2020/NĐ-CP, thành viên tổ lái tàu bay có hợp đồng lao động không xác định thời hạn phải báo trước ít nhất bao nhiêu ngày khi đơn phương chấm dứt hợp đồng?",Ít nhất 120 ngày.,"#1 [nd-145-2020-cb1203 tr.7-7 Điều 7]
+Điều 7. Thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động
+đối với một số ngành, nghề, công việc đặc thù
+Ngành, nghề, công vi ệc đặc thù và th ời hạn báo tr ước khi đơn phương chấm
+dứt h ợp đồng lao động quy định tại điểm d kho ản 1 Điều 35 và điểm d kho ản 2
+Điều 36 của Bộ luật Lao động như sau:
+1. Ngành, nghề, công việc đặc thù gồm:
+a) Thành viên t ổ lái tàu bay; nhân viên k ỹ thuật bảo dưỡng tàu bay, nhân viên
+sửa chữa chuyên ngành hàng không; nhân viên điều độ, khai thác bay;
+b) Ng ười qu ản lý doanh nghi ệp theo quy định c ủa Lu ật Doanh nghi ệp; Lu ật
+Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp;
+c) Thuyền viên thuộc thuyền bộ làm việc trên tàu Vi ệt Nam đang hoạt động ở
+nước ngoài; thuy ền viên được doanh nghi ệp Việt Nam cho thuê l ại làm vi ệc trên
+tàu biển nước ngoài;
+d) Trường hợp khác do pháp luật quy định.
+2. Khi ng ười lao động làm ngành, ngh ề, công vi ệc quy định tại khoản 1 Điều
+này đơn phương chấm dứt h ợp đồng lao động hoặc người s ử dụng lao động đơn
+phương chấm dứt h ợp đồng lao động đối v ới nh ững ng ười lao động này thì th ời
+hạn báo trước như sau:
+a) Ít nh ất 120 ngày đối với hợp đồng lao động không xác định thời hạn hoặc
+hợp đồng lao động xác định thời hạn từ 12 tháng trở lên;
+b) Ít nhất bằng một phần tư thời hạn của hợp đồng lao động đối với hợp đồng
+lao động có thời hạn dưới 12 tháng.
+
+#2 [nd-145-2020-cb1203 tr.84-84 Điều 93]
+Điều 93. Trình tự và thủ tục bổ nhiệm hòa giải viên lao động
+d) Trong th ời hạn 10 ngày làm vi ệc kể từ ngày nh ận được báo cáo c ủa Phòng
+Lao động - Th ương binh và Xã h ội, Sở Lao động - Th ương binh và Xã h ội thẩm
+định các hồ sơ dự tuyển (kể cả các hồ sơ do Sở Lao động - Thương binh và Xã hội
+trực tiếp nhận), lựa chọn và l ập danh sách v ị trí b ổ nhiệm của từng hòa gi ải viên
+lao động thuộc thẩm quyền quản lý của Sở Lao động - Thương binh và Xã h ội và
+của Phòng Lao động - Thương binh và Xã hội, trình Chủ tịch Ủy ban nhân dân cấp
+tỉnh xem xét, bổ nhiệm;
+đ) Trong thời hạn 05 ngày làm vi ệc kể từ ngày nhận được đề nghị của Sở Lao
+động - Thương binh và Xã h ội, Chủ tịch Ủy ban nhân dân c ấp tỉnh xem xét, quyết
+định bổ nhiệm hòa gi ải viên lao động. Thời hạn bổ nhiệm hòa gi ải viên lao động
+tối đa không quá 05 năm.
+
+#3 [nd-145-2020-cb1203 tr.77-78 Điều 89]
+Điều 89. Một số quy định riêng đối với lao động là người giúp việc gia đình
+d) Trong quá trình th ực hi ện h ợp đồng lao động, m ỗi bên có quy ền đơn
+phương chấm dứt hợp đồng lao động mà không c ần lý do nh ưng phải báo trước ít
+nhất 15 ngày, trừ các trường hợp sau thì không phải báo trước:
+d1) Ng ười lao động đơn ph ương ch ấm d ứt h ợp đồng lao động vì các lý do:
+Không được bố trí theo đúng công vi ệc, địa điểm làm vi ệc hoặc không được bảo
+đảm điều kiện làm vi ệc theo th ỏa thuận, trừ trường hợp quy định tại Điều 29 c ủa
+Bộ luật Lao động; không được trả đủ lương hoặc trả lương không đúng thời hạn,
+trừ trường hợp quy định tại kho ản 4 Điều 97 c ủa Bộ luật Lao động; bị người sử
+dụng lao động ngược đãi, đánh đập hoặc có lời nói, hành vi nh ục mạ, hành vi làm
+ảnh hưởng đến sức khỏe, nhân phẩm, danh dự; bị cưỡng bức lao động; bị quấy rối
+tình dục tại nơi làm vi ệc; lao động nữ mang thai ph ải nghỉ việc theo quy định tại
+khoản 1 Điều 138 c ủa B ộ lu ật Lao động; đủ tu ổi ngh ỉ h ưu theo quy định t ại
+Điều 169 của Bộ luật Lao động trừ trường hợp các bên có th ỏa thuận khác; người
+sử dụng lao động cung c ấp thông tin không trung th ực theo quy định tại khoản 1
+Điều 16 c ủa B ộ lu ật Lao động làm ảnh h ưởng đến vi ệc th ực hi ện h ợp đồng
+lao động;
+d2) Người sử dụng lao động đơn phương chấm dứt hợp đồng lao động vì các
+lý do: Ng ười lao động không có m ặt t ại n ơi làm vi ệc sau th ời h ạn quy định tại
+Điều 31 c ủa B ộ lu ật Lao động; ng ười lao động t ự ý b ỏ vi ệc mà không có lý do
+chính đáng từ 05 ngày làm việc liên tục trở lên;",1,2,"Filter document_id đúng; #1 trọn Điều 7 NĐ 145: tổ lái tàu bay, ít nhất 120 ngày.",Claude (AI) 2026-11-14 - học viên cần rà soát
+C,q018,"Tôi nghỉ việc sau 4 năm làm ở công ty, công ty phải trả trợ cấp thôi việc theo cách tính nào?",Nếu làm việc thường xuyên từ đủ 12 tháng trở lên: mỗi năm làm việc được trợ cấp một nửa tháng tiền lương (trừ trường hợp đủ điều kiện hưởng lương hưu...).,"#1 [blld-2019 tr.11-11 Điều 46]
+Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì
+người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình
+từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng
+lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của
+Bộ luật này.
+2. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng
+lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm
+thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi
+người lao động thôi việc.
+4. Chính phủ quy định chi tiết Điều này.
+
+#2 [blld-2012 tr.15-15 Điều 48]
+Điều 48. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy đ ịnh tại các khoản 1, 2, 3, 5, 6,
+7, 9 và 10 Điều 36 của Bộ luật này thì người sử dụng lao động có trách nhi ệm chi
+trả trợ cấp thôi việc cho người lao động đã làm vi ệc thường xuyên từ đủ 12 tháng
+trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương.
+2. Th ời gian làm vi ệc đ ể tính tr ợ cấp thôi vi ệc là tổng th ời gian ngư ời lao
+động đã làm vi ệc thực tế cho người sử dụng lao đ ộng trừ đi thời gian ngư ời lao
+động đã tham gia bảo hiểm thất nghiệp theo quy định của Luật bảo hiểm xã hội và
+thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân theo h ợp đồng
+lao động của 06 tháng liền kề trước khi người lao động thôi việc.
+
+#3 [nd-145-2020-cb1203 tr.11-12 Điều 8]
+Điều 8. Trợ cấp thôi việc, trợ cấp mất việc làm
+5. Tiền lương để tính tr ợ cấp thôi vi ệc, tr ợ cấp mất vi ệc làm được quy định
+như sau:
+a) Tiền lương để tính trợ cấp thôi việc, trợ cấp mất việc làm là tiền lương bình
+quân của 06 tháng li ền kề theo h ợp đồng lao động trước khi ng ười lao động thôi
+việc, mất việc làm.
+b) Trường hợp người lao động làm việc cho người sử dụng lao động theo nhiều
+hợp đồng lao động kế tiếp nhau theo quy định tại khoản 2 Điều 20 của Bộ luật Lao
+động thì ti ền l ương để tính tr ợ c ấp thôi vi ệc, tr ợ c ấp mất vi ệc làm là ti ền l ương
+bình quân c ủa 06 tháng li ền k ề theo h ợp đồng lao động tr ước khi ch ấm dứt h ợp
+đồng lao động cuối cùng. Trường hợp hợp đồng lao động cuối cùng bị tuyên bố vô
+hiệu vì có n ội dung ti ền lương thấp hơn mức lương tối thiểu vùng do Chính ph ủ
+công bố hoặc mức lương ghi trong thỏa ước lao động tập thể thì tiền lương làm căn
+cứ tính tr ợ cấp thôi vi ệc do hai bên th ỏa thuận nhưng không th ấp hơn mức lương
+tối thiểu vùng hoặc mức lương ghi trong thỏa ước lao động tập thể.
+6. Kinh phí chi tr ả trợ c ấp thôi vi ệc, tr ợ c ấp mất vi ệc làm đối v ới ng ười lao
+động được hạch toán vào chi phí sản xuất, kinh doanh hoặc kinh phí hoạt động của
+người sử dụng lao động.
+
+Mục 3
+XỬ LÝ HỢP ĐỒNG LAO ĐỘNG VÔ HIỆU",1,2,Giống B (câu không có filter): #1 trọn Điều 46 BLLĐ 2019.,Claude (AI) 2026-11-14 - học viên cần rà soát
+C,q019,"Theo luật, ca đêm được tính từ mấy giờ đến mấy giờ?",Từ 22 giờ đến 06 giờ sáng ngày hôm sau.,"#1 [blld-2012 tr.30-30 Điều 105]
+Điều 105. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau.
+
+#2 [blld-2019 tr.22-22 Điều 106]
+Điều 106. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
+
+#3 [nd-145-2020-cb1203 tr.52-52 Điều 56]
+Điều 56. Tiền lương làm việc vào ban đêm
+Tiền lương làm việc vào ban đêm theo khoản 2 Điều 98 của Bộ luật Lao động,
+được tính theo công thức sau:
+1. Đối với người lao động hưởng lương theo thời gian, tiền lương làm việc vào
+ban đêm được tính như sau:
+Tiền
+lương
+làm
+việc
+vào ban
+đêm
+
+=
+Tiền lương giờ
+thực trả của
+công việc đang
+làm vào ngày
+làm việc bình
+thường
++
+Tiền lương giờ
+thực trả của
+công việc
+đang làm vào
+ngày làm việc
+bình thường
+x
+
+Mức ít
+nhất
+30%
+x
+Số giờ
+làm
+việc
+vào
+ban
+đêm
+Trong đó: Tiền lương giờ thực trả của công vi ệc đang làm vào ngày làm vi ệc
+bình thường được xác định theo điểm a khoản 1 Điều 55 Nghị định này.
+2. Đối v ới ng ười lao động h ưởng l ương theo s ản ph ẩm, ti ền l ương làm vi ệc
+vào ban đêm được tính như sau:
+Tiền
+lương
+làm việc
+vào ban
+đêm
+
+=
+Đơn giá tiền
+lương sản
+phẩm của
+ngày làm
+việc bình
+thường
++
+Đơn giá tiền
+lương sản
+phẩm của
+ngày làm việc
+bình thường
+x
+Mức
+ít
+nhất
+30%
+x
+Số sản
+phẩm làm
+vào ban
+đêm",1,2,Giống B: #1-#2 nêu 22 giờ đến 6/06 giờ sáng hôm sau.,Claude (AI) 2026-11-14 - học viên cần rà soát
+C,q020,Nghị định hướng dẫn Bộ luật Lao động về điều kiện lao động và quan hệ lao động có hiệu lực thi hành từ ngày nào?,Từ ngày 01 tháng 02 năm 2021.,"#1 [blld-2019 tr.46-46 Điều 220]
+Điều 220. Hiệu lực thi hành
+1. Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.
+Bộ luật Lao động số 10/2012/QH13 hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực.
+2. Kể từ ngày Bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp
+pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so
+với quy định của Bộ luật này được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung
+để phù hợp và để áp dụng quy định của Bộ luật này.
+3. Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân
+dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác
+quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong Bộ luật này.
+Bộ luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 20
+tháng 11 năm 2019./.
+
+CHỦ TỊCH QUỐC HỘI
+
+#2 [blld-2012 tr.67-67 Điều 240]
+Điều 240. Hiệu lực của Bộ luật lao động
+1. Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 05 năm 2013.
+Bộ luật lao động ngày 23 tháng 6 năm 1994, Luật sửa đổi, bổ sung một số điều
+của Bộ luật lao động số 35/2002/QH10, Luật sửa đổi, bổ sung một số điều của Bộ luật
+lao động số 74/2006/QH11 và Luật sửa đổi, bổ sung một số điều của Bộ luật lao động
+số 84/2007/QH11 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực.
+2. Kể từ ngày Bộ luật này có hiệu lực thi hành:
+a) Các hợp đồng lao đ ộng, thoả ước lao động tập thể, những thoả thuận hợp
+pháp khác đã giao k ết và nh ững thoả thuận có l ợi hơn cho ngư ời lao đ ộng so v ới
+quy định của Bộ luật này được tiếp tục thực hiện; những thoả thuận không phù hợp
+với quy định của Bộ luật phải được sửa đổi, bổ sung;
+b) Quy định về thời gian hưởng chế độ khi sinh con tại Luật bảo hiểm xã hội
+số 71/2006/QH11 được thực hiện theo quy định của Bộ luật này.
+Lao động nữ nghỉ sinh con trước ngày Bộ luật này có hi ệu lực, mà đến ngày
+01 tháng 5 năm 2013 vẫn đang trong thời gian nghỉ sinh con theo quy định tại Luật
+bảo hiểm xã h ội số 71/2006/QH11 thì thời gian hưởng chế độ khi sinh con được
+thực hiện theo quy định của Bộ luật này.
+
+#3 [nd-145-2020-cb1205 tr.11-12 Điều 114]
+Điều 114. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2021.
+2. Kể từ ngày Ngh ị định này có hi ệu lực thi hành, các Ngh ị định sau đây hết
+hiệu lực thi hành:
+a) Nghị định số 03/2014/NĐ-CP ngày 16 tháng 01 n ăm 2014 c ủa Chính ph ủ
+quy định chi tiết thi hành một số điều của Bộ luật Lao động về việc làm;
+b) Nghị định s ố 44/2013/N Đ-CP ngày 09 tháng 5 n ăm 2013 c ủa Chính ph ủ
+quy định chi ti ết thi hành m ột s ố điều c ủa B ộ lu ật Lao động v ề h ợp đồng lao
+động; Ngh ị định số 05/2015/N Đ-CP ngày 12 tháng 01 n ăm 2015 c ủa Chính ph ủ
+quy định chi ti ết và h ướng dẫn thi hành m ột số nội dung c ủa Bộ luật Lao động;
+Nghị định s ố 148/2018/N Đ-CP ngày 24 tháng 10 n ăm 2018 c ủa Chính ph ủ sửa
+đổi, b ổ sung m ột s ố điều c ủa Ngh ị định s ố 05/2015/N Đ-CP ngày 12 tháng 01
+năm 2015 c ủa Chính ph ủ quy định chi ti ết và h ướng d ẫn thi hành m ột s ố n ội
+dung của Bộ luật Lao động;
+c) Nghị định số 29/2019/NĐ-CP ngày 20 tháng 3 năm 2019 của Chính phủ quy
+định chi tiết thi hành khoản 3 Điều 54 của Bộ luật Lao động về việc cấp phép hoạt
+động cho thuê lại lao động, việc ký quỹ và danh mục công việc được thực hiện cho
+thuê lại lao động;
+d) Nghị định số 149/2018/NĐ-CP ngày 07 tháng 11 n ăm 2018 của Chính phủ
+quy định chi tiết khoản 3 Điều 63 của Bộ luật Lao động về thực hiện quy chế dân
+chủ ở cơ sở tại nơi làm việc;",1,2,"Giống B (không filter): #3 Điều 114 NĐ 145 có ngày 01/02/2021, nhiễu từ hiệu lực BLLĐ ở #1-#2.",Claude (AI) 2026-11-14 - học viên cần rà soát

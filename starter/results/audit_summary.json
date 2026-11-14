@@ -1,0 +1,59 @@
+{
+  "nguoi_cham": "Claude (AI) 2026-11-14 - học viên cần rà soát",
+  "phuong_phap": "Đọc chunk text trong CSV + đối chiếu trang PDF bằng script (vị trí text trên trang page..page_end, year/document_id theo manifest). Cùng tiêu chí 0-2 theo GUIDE.md cho mọi chiến lược.",
+  "metadata": {
+    "A": {
+      "du_va_dung": "15/15",
+      "ban_ghi_dung_filter": "0/6",
+      "cau_top3_tuan_thu_filter": "0/2",
+      "article_gay_hieu_nham": 4
+    },
+    "B": {
+      "du_va_dung": "15/15",
+      "ban_ghi_dung_filter": "1/6",
+      "cau_top3_tuan_thu_filter": "0/2",
+      "article_gay_hieu_nham": 0
+    },
+    "C": {
+      "du_va_dung": "15/15",
+      "ban_ghi_dung_filter": "6/6",
+      "cau_top3_tuan_thu_filter": "2/2",
+      "article_gay_hieu_nham": 0
+    }
+  },
+  "grounding": {
+    "A": {
+      "0": 2,
+      "1": 0,
+      "2": 3,
+      "tb_/2": 1.2
+    },
+    "B": {
+      "0": 1,
+      "1": 0,
+      "2": 4,
+      "tb_/2": 1.6
+    },
+    "C": {
+      "0": 0,
+      "1": 0,
+      "2": 5,
+      "tb_/2": 2.0
+    }
+  },
+  "coherence": {
+    "A": {
+      "0": 1,
+      "1": 8,
+      "2": 1,
+      "tb_/2": 1.0
+    },
+    "B": {
+      "0": 0,
+      "1": 2,
+      "2": 8,
+      "tb_/2": 1.8
+    },
+    "C": "dùng chung chunk của B -> giống B"
+  }
+}

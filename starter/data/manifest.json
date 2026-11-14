@@ -1,0 +1,1563 @@
+{
+  "corpus": "Pháp luật lao động Việt Nam",
+  "page_counting_rule": "Chỉ tính trang PDF vật lý có nội dung quy phạm (Chương/Điều/Khoản). Loại: trang trống, trang chỉ có tiêu đề/quốc hiệu không có Điều nào, trang chỉ có chữ ký/nơi nhận, mục lục, phụ lục mẫu biểu. Trang có < 200 ký tự sau chuẩn hóa NFC bị loại tự động; các trang loại thủ công ghi trong excluded_pages kèm lý do.",
+  "license_note": "Văn bản quy phạm pháp luật không thuộc đối tượng bảo hộ quyền tác giả (Điều 15 Luật Sở hữu trí tuệ 50/2005/QH11, sửa đổi 2022). Được phép xử lý và tái phân phối.",
+  "sources": [
+    {
+      "source_id": "blld-2019",
+      "title": "Bộ luật Lao động số 45/2019/QH14",
+      "document_number": "45/2019/QH14",
+      "document_type": "bo_luat",
+      "year": 2019,
+      "issued_date": "2019-11-20",
+      "effective_date": "2021-01-01",
+      "status": "con_hieu_luc; corpus dùng NGUYÊN VĂN 2019, chưa gồm các sửa đổi sau này (đã có văn bản hợp nhất 125/VBHN-VPQH năm 2025)",
+      "source_path": "data/blld-2019.pdf",
+      "source_url": "https://phongtochuc.hub.edu.vn/DATA/DOCUMENT/2022/11/24/lu%E1%BA%ADt%20lao%20%C4%91%E1%BB%99ng%20m%E1%BB%9Bi%20nh%E1%BA%A5t%202019.pdf",
+      "official_reference": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-45-2019-qh14-30232.htm",
+      "license_or_permission": "Văn bản QPPL, không bảo hộ quyền tác giả (Điều 15 Luật SHTT)",
+      "accessed_at": "2026-11-14",
+      "sha256": "d18ea87cc5c48ae29a3068bf4699f6dbaefa34e2169a05c6ca3e877200adf7c7",
+      "excluded_pages": [],
+      "physical_pages": 47,
+      "counted_pages": 46,
+      "total_chars": 189205,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 3066,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "chars": 4078,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "chars": 4172,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "chars": 4117,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "chars": 3895,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "chars": 3677,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "chars": 4313,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "chars": 4386,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "chars": 4270,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "chars": 4549,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "chars": 4213,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "chars": 4116,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "chars": 3983,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "chars": 4107,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "chars": 3972,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "chars": 4087,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "chars": 4419,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "chars": 4496,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "chars": 4323,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "chars": 3760,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "chars": 4175,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "chars": 3961,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "chars": 4026,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "chars": 4165,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "chars": 3575,
+          "counted": true
+        },
+        {
+          "page": 26,
+          "chars": 4156,
+          "counted": true
+        },
+        {
+          "page": 27,
+          "chars": 4036,
+          "counted": true
+        },
+        {
+          "page": 28,
+          "chars": 4246,
+          "counted": true
+        },
+        {
+          "page": 29,
+          "chars": 3975,
+          "counted": true
+        },
+        {
+          "page": 30,
+          "chars": 4293,
+          "counted": true
+        },
+        {
+          "page": 31,
+          "chars": 4216,
+          "counted": true
+        },
+        {
+          "page": 32,
+          "chars": 3822,
+          "counted": true
+        },
+        {
+          "page": 33,
+          "chars": 3915,
+          "counted": true
+        },
+        {
+          "page": 34,
+          "chars": 4296,
+          "counted": true
+        },
+        {
+          "page": 35,
+          "chars": 4261,
+          "counted": true
+        },
+        {
+          "page": 36,
+          "chars": 4620,
+          "counted": true
+        },
+        {
+          "page": 37,
+          "chars": 4369,
+          "counted": true
+        },
+        {
+          "page": 38,
+          "chars": 4368,
+          "counted": true
+        },
+        {
+          "page": 39,
+          "chars": 4671,
+          "counted": true
+        },
+        {
+          "page": 40,
+          "chars": 4371,
+          "counted": true
+        },
+        {
+          "page": 41,
+          "chars": 4247,
+          "counted": true
+        },
+        {
+          "page": 42,
+          "chars": 4017,
+          "counted": true
+        },
+        {
+          "page": 43,
+          "chars": 4347,
+          "counted": true
+        },
+        {
+          "page": 44,
+          "chars": 3656,
+          "counted": true
+        },
+        {
+          "page": 45,
+          "chars": 3816,
+          "counted": true
+        },
+        {
+          "page": 46,
+          "chars": 3606,
+          "counted": true
+        },
+        {
+          "page": 47,
+          "chars": 19,
+          "counted": false,
+          "reason": "too_short"
+        }
+      ],
+      "provenance_note": "Bản sao không chính thức đăng trên website Trường ĐH Ngân hàng TP.HCM; nội dung là nguyên văn văn bản QPPL",
+      "document_id": "blld-2019"
+    },
+    {
+      "source_id": "blld-2012",
+      "title": "Bộ luật Lao động số 10/2012/QH13",
+      "document_number": "10/2012/QH13",
+      "document_type": "bo_luat",
+      "year": 2012,
+      "issued_date": "2012-06-18",
+      "effective_date": "2013-05-01",
+      "status": "het_hieu_luc (thay thế bởi 45/2019/QH14 từ 2021-01-01)",
+      "source_path": "data/blld-2012.pdf",
+      "source_url": "https://www.tueba.edu.vn/uploads/2020/Luat%20lao%20dong-1557871874.pdf",
+      "license_or_permission": "Văn bản QPPL, không bảo hộ quyền tác giả (Điều 15 Luật SHTT)",
+      "accessed_at": "2026-11-14",
+      "sha256": "17995fffc7b7f35bfe5efbdb4994167295158349cc512a0df1a09bf5616044c8",
+      "excluded_pages": [],
+      "physical_pages": 68,
+      "counted_pages": 67,
+      "total_chars": 163024,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1980,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "chars": 2641,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "chars": 2430,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "chars": 2316,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "chars": 2484,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "chars": 2417,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "chars": 2604,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "chars": 2160,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "chars": 2528,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "chars": 2491,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "chars": 2405,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "chars": 2580,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "chars": 2711,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "chars": 2822,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "chars": 2419,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "chars": 2366,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "chars": 2123,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "chars": 2596,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "chars": 2412,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "chars": 2219,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "chars": 1785,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "chars": 2509,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "chars": 2466,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "chars": 2391,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "chars": 2426,
+          "counted": true
+        },
+        {
+          "page": 26,
+          "chars": 2406,
+          "counted": true
+        },
+        {
+          "page": 27,
+          "chars": 2378,
+          "counted": true
+        },
+        {
+          "page": 28,
+          "chars": 2620,
+          "counted": true
+        },
+        {
+          "page": 29,
+          "chars": 2618,
+          "counted": true
+        },
+        {
+          "page": 30,
+          "chars": 2275,
+          "counted": true
+        },
+        {
+          "page": 31,
+          "chars": 2291,
+          "counted": true
+        },
+        {
+          "page": 32,
+          "chars": 2573,
+          "counted": true
+        },
+        {
+          "page": 33,
+          "chars": 2332,
+          "counted": true
+        },
+        {
+          "page": 34,
+          "chars": 2034,
+          "counted": true
+        },
+        {
+          "page": 35,
+          "chars": 2384,
+          "counted": true
+        },
+        {
+          "page": 36,
+          "chars": 2569,
+          "counted": true
+        },
+        {
+          "page": 37,
+          "chars": 2548,
+          "counted": true
+        },
+        {
+          "page": 38,
+          "chars": 2372,
+          "counted": true
+        },
+        {
+          "page": 39,
+          "chars": 2699,
+          "counted": true
+        },
+        {
+          "page": 40,
+          "chars": 2555,
+          "counted": true
+        },
+        {
+          "page": 41,
+          "chars": 2665,
+          "counted": true
+        },
+        {
+          "page": 42,
+          "chars": 2811,
+          "counted": true
+        },
+        {
+          "page": 43,
+          "chars": 2546,
+          "counted": true
+        },
+        {
+          "page": 44,
+          "chars": 2774,
+          "counted": true
+        },
+        {
+          "page": 45,
+          "chars": 2473,
+          "counted": true
+        },
+        {
+          "page": 46,
+          "chars": 2180,
+          "counted": true
+        },
+        {
+          "page": 47,
+          "chars": 2111,
+          "counted": true
+        },
+        {
+          "page": 48,
+          "chars": 2506,
+          "counted": true
+        },
+        {
+          "page": 49,
+          "chars": 2050,
+          "counted": true
+        },
+        {
+          "page": 50,
+          "chars": 2417,
+          "counted": true
+        },
+        {
+          "page": 51,
+          "chars": 2229,
+          "counted": true
+        },
+        {
+          "page": 52,
+          "chars": 2819,
+          "counted": true
+        },
+        {
+          "page": 53,
+          "chars": 2679,
+          "counted": true
+        },
+        {
+          "page": 54,
+          "chars": 2497,
+          "counted": true
+        },
+        {
+          "page": 55,
+          "chars": 2272,
+          "counted": true
+        },
+        {
+          "page": 56,
+          "chars": 2329,
+          "counted": true
+        },
+        {
+          "page": 57,
+          "chars": 2278,
+          "counted": true
+        },
+        {
+          "page": 58,
+          "chars": 2741,
+          "counted": true
+        },
+        {
+          "page": 59,
+          "chars": 2510,
+          "counted": true
+        },
+        {
+          "page": 60,
+          "chars": 2212,
+          "counted": true
+        },
+        {
+          "page": 61,
+          "chars": 2428,
+          "counted": true
+        },
+        {
+          "page": 62,
+          "chars": 2560,
+          "counted": true
+        },
+        {
+          "page": 63,
+          "chars": 2587,
+          "counted": true
+        },
+        {
+          "page": 64,
+          "chars": 2515,
+          "counted": true
+        },
+        {
+          "page": 65,
+          "chars": 2746,
+          "counted": true
+        },
+        {
+          "page": 66,
+          "chars": 1845,
+          "counted": true
+        },
+        {
+          "page": 67,
+          "chars": 2309,
+          "counted": true
+        },
+        {
+          "page": 68,
+          "chars": 177,
+          "counted": false,
+          "reason": "too_short"
+        }
+      ],
+      "provenance_note": "Bản sao không chính thức đăng trên website Trường ĐH Kinh tế & QTKD (ĐH Thái Nguyên). Đã thay bản vnuf.edu.vn (34 trang) vì bản đó chỉ có tên ~86 Điều mà không có nội dung (vd Điều 97). Lỗi font: 'ư' trích xuất thành 'ƣ' (U+01A3), khoảng trắng chen giữa âm tiết -> xử lý ở bước chuẩn hóa.",
+      "document_id": "blld-2012"
+    },
+    {
+      "source_id": "nd-145-2020-cb1203",
+      "part": "Công báo số 1203+1204: phần đầu đến Điều 101",
+      "source_path": "data/nd-145-2020-cb1203.pdf",
+      "source_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2020/12/32732/33806-1-20201203-1204145-2020-nd-cp.pdf",
+      "excluded_pages": [],
+      "document_id": "nd-145-2020",
+      "title": "Nghị định 145/2020/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+      "document_number": "145/2020/NĐ-CP",
+      "document_type": "nghi_dinh",
+      "year": 2020,
+      "issued_date": "2020-12-14",
+      "effective_date": "2021-02-01",
+      "status": "con_hieu_luc tại thời điểm Công báo; năm 2026 có dự thảo sửa đổi (chưa đưa vào corpus)",
+      "license_or_permission": "Văn bản QPPL, không bảo hộ quyền tác giả (Điều 15 Luật SHTT)",
+      "accessed_at": "2026-11-14",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-145-2020-nd-cp-32732.htm",
+      "provenance_note": "Bản chính thức đăng Công báo (ngày 28-12-2020). Mỗi trang có dòng header 'CÔNG BÁO/Số .../Ngày ...' cần loại khi chuẩn hóa; có khoảng trắng chen giữa âm tiết ở một số chỗ.",
+      "sha256": "3131bee5778b06390f4f62fcffb751fdd78bf14f1a834ae17e0f9c1f319ca65a",
+      "physical_pages": 95,
+      "counted_pages": 94,
+      "total_chars": 172487,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1287,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "chars": 1335,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "chars": 2210,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "chars": 1552,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "chars": 1969,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "chars": 1818,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "chars": 1662,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "chars": 2056,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "chars": 2156,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "chars": 2124,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "chars": 2160,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "chars": 1755,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "chars": 1846,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "chars": 1832,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "chars": 1763,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "chars": 1683,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "chars": 2047,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "chars": 1798,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "chars": 2180,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "chars": 2261,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "chars": 1856,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "chars": 1703,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "chars": 1907,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "chars": 1748,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "chars": 1759,
+          "counted": true
+        },
+        {
+          "page": 26,
+          "chars": 1749,
+          "counted": true
+        },
+        {
+          "page": 27,
+          "chars": 2023,
+          "counted": true
+        },
+        {
+          "page": 28,
+          "chars": 2176,
+          "counted": true
+        },
+        {
+          "page": 29,
+          "chars": 1796,
+          "counted": true
+        },
+        {
+          "page": 30,
+          "chars": 2064,
+          "counted": true
+        },
+        {
+          "page": 31,
+          "chars": 1622,
+          "counted": true
+        },
+        {
+          "page": 32,
+          "chars": 1972,
+          "counted": true
+        },
+        {
+          "page": 33,
+          "chars": 1807,
+          "counted": true
+        },
+        {
+          "page": 34,
+          "chars": 1475,
+          "counted": true
+        },
+        {
+          "page": 35,
+          "chars": 1591,
+          "counted": true
+        },
+        {
+          "page": 36,
+          "chars": 1705,
+          "counted": true
+        },
+        {
+          "page": 37,
+          "chars": 1931,
+          "counted": true
+        },
+        {
+          "page": 38,
+          "chars": 1943,
+          "counted": true
+        },
+        {
+          "page": 39,
+          "chars": 1923,
+          "counted": true
+        },
+        {
+          "page": 40,
+          "chars": 1921,
+          "counted": true
+        },
+        {
+          "page": 41,
+          "chars": 1512,
+          "counted": true
+        },
+        {
+          "page": 42,
+          "chars": 1660,
+          "counted": true
+        },
+        {
+          "page": 43,
+          "chars": 1566,
+          "counted": true
+        },
+        {
+          "page": 44,
+          "chars": 1693,
+          "counted": true
+        },
+        {
+          "page": 45,
+          "chars": 1445,
+          "counted": true
+        },
+        {
+          "page": 46,
+          "chars": 1961,
+          "counted": true
+        },
+        {
+          "page": 47,
+          "chars": 2032,
+          "counted": true
+        },
+        {
+          "page": 48,
+          "chars": 1887,
+          "counted": true
+        },
+        {
+          "page": 49,
+          "chars": 1702,
+          "counted": true
+        },
+        {
+          "page": 50,
+          "chars": 1940,
+          "counted": true
+        },
+        {
+          "page": 51,
+          "chars": 2115,
+          "counted": true
+        },
+        {
+          "page": 52,
+          "chars": 1463,
+          "counted": true
+        },
+        {
+          "page": 53,
+          "chars": 1818,
+          "counted": true
+        },
+        {
+          "page": 54,
+          "chars": 1714,
+          "counted": true
+        },
+        {
+          "page": 55,
+          "chars": 1722,
+          "counted": true
+        },
+        {
+          "page": 56,
+          "chars": 1741,
+          "counted": true
+        },
+        {
+          "page": 57,
+          "chars": 1648,
+          "counted": true
+        },
+        {
+          "page": 58,
+          "chars": 1724,
+          "counted": true
+        },
+        {
+          "page": 59,
+          "chars": 1863,
+          "counted": true
+        },
+        {
+          "page": 60,
+          "chars": 1667,
+          "counted": true
+        },
+        {
+          "page": 61,
+          "chars": 1792,
+          "counted": true
+        },
+        {
+          "page": 62,
+          "chars": 2094,
+          "counted": true
+        },
+        {
+          "page": 63,
+          "chars": 1990,
+          "counted": true
+        },
+        {
+          "page": 64,
+          "chars": 1973,
+          "counted": true
+        },
+        {
+          "page": 65,
+          "chars": 2164,
+          "counted": true
+        },
+        {
+          "page": 66,
+          "chars": 1983,
+          "counted": true
+        },
+        {
+          "page": 67,
+          "chars": 1469,
+          "counted": true
+        },
+        {
+          "page": 68,
+          "chars": 1633,
+          "counted": true
+        },
+        {
+          "page": 69,
+          "chars": 1736,
+          "counted": true
+        },
+        {
+          "page": 70,
+          "chars": 2097,
+          "counted": true
+        },
+        {
+          "page": 71,
+          "chars": 1802,
+          "counted": true
+        },
+        {
+          "page": 72,
+          "chars": 2003,
+          "counted": true
+        },
+        {
+          "page": 73,
+          "chars": 1770,
+          "counted": true
+        },
+        {
+          "page": 74,
+          "chars": 1801,
+          "counted": true
+        },
+        {
+          "page": 75,
+          "chars": 1550,
+          "counted": true
+        },
+        {
+          "page": 76,
+          "chars": 1489,
+          "counted": true
+        },
+        {
+          "page": 77,
+          "chars": 2193,
+          "counted": true
+        },
+        {
+          "page": 78,
+          "chars": 2129,
+          "counted": true
+        },
+        {
+          "page": 79,
+          "chars": 2054,
+          "counted": true
+        },
+        {
+          "page": 80,
+          "chars": 1896,
+          "counted": true
+        },
+        {
+          "page": 81,
+          "chars": 1922,
+          "counted": true
+        },
+        {
+          "page": 82,
+          "chars": 1445,
+          "counted": true
+        },
+        {
+          "page": 83,
+          "chars": 2060,
+          "counted": true
+        },
+        {
+          "page": 84,
+          "chars": 2007,
+          "counted": true
+        },
+        {
+          "page": 85,
+          "chars": 1871,
+          "counted": true
+        },
+        {
+          "page": 86,
+          "chars": 1942,
+          "counted": true
+        },
+        {
+          "page": 87,
+          "chars": 1888,
+          "counted": true
+        },
+        {
+          "page": 88,
+          "chars": 1724,
+          "counted": true
+        },
+        {
+          "page": 89,
+          "chars": 1808,
+          "counted": true
+        },
+        {
+          "page": 90,
+          "chars": 1707,
+          "counted": true
+        },
+        {
+          "page": 91,
+          "chars": 1816,
+          "counted": true
+        },
+        {
+          "page": 92,
+          "chars": 1952,
+          "counted": true
+        },
+        {
+          "page": 93,
+          "chars": 1985,
+          "counted": true
+        },
+        {
+          "page": 94,
+          "chars": 1704,
+          "counted": true
+        },
+        {
+          "page": 95,
+          "chars": 0,
+          "counted": false,
+          "reason": "too_short"
+        }
+      ]
+    },
+    {
+      "source_id": "nd-145-2020-cb1205",
+      "part": "Công báo số 1205+1206: Điều 102 đến Điều 115, chữ ký, phụ lục",
+      "source_path": "data/nd-145-2020-cb1205.pdf",
+      "source_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2020/12/32732/33809-1-20201205-1206145-2020-nd-cp.pdf",
+      "excluded_pages": [
+        {
+          "page": 15,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 16,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 17,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 18,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 19,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 20,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 21,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 22,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 23,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 24,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 25,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 26,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 27,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 28,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 29,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 30,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 31,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 32,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 33,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 34,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 35,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 36,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 37,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 38,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 39,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 40,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 41,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 42,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 43,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 44,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 45,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 46,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        },
+        {
+          "page": 47,
+          "reason": "Phụ lục mẫu biểu (form trống/danh mục), không phải nội dung Điều"
+        }
+      ],
+      "document_id": "nd-145-2020",
+      "title": "Nghị định 145/2020/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+      "document_number": "145/2020/NĐ-CP",
+      "document_type": "nghi_dinh",
+      "year": 2020,
+      "issued_date": "2020-12-14",
+      "effective_date": "2021-02-01",
+      "status": "con_hieu_luc tại thời điểm Công báo; năm 2026 có dự thảo sửa đổi (chưa đưa vào corpus)",
+      "license_or_permission": "Văn bản QPPL, không bảo hộ quyền tác giả (Điều 15 Luật SHTT)",
+      "accessed_at": "2026-11-14",
+      "source_page": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-145-2020-nd-cp-32732.htm",
+      "provenance_note": "Bản chính thức đăng Công báo (ngày 28-12-2020). Mỗi trang có dòng header 'CÔNG BÁO/Số .../Ngày ...' cần loại khi chuẩn hóa; có khoảng trắng chen giữa âm tiết ở một số chỗ.",
+      "sha256": "38de13854df47d0e27ee497b86272f874742cea7e68f1be26d81587ff95f170b",
+      "physical_pages": 47,
+      "counted_pages": 14,
+      "total_chars": 28419,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1422,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "chars": 2522,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "chars": 2104,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "chars": 2097,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "chars": 1728,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "chars": 2135,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "chars": 2361,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "chars": 1935,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "chars": 2498,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "chars": 2323,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "chars": 1964,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "chars": 2168,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "chars": 2512,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "chars": 650,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "chars": 313,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 16,
+          "chars": 42,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 17,
+          "chars": 42,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 18,
+          "chars": 1016,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 19,
+          "chars": 995,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 20,
+          "chars": 2572,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 21,
+          "chars": 1608,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 22,
+          "chars": 2623,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 23,
+          "chars": 3039,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 24,
+          "chars": 2975,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 25,
+          "chars": 2360,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 26,
+          "chars": 2089,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 27,
+          "chars": 1036,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 28,
+          "chars": 2243,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 29,
+          "chars": 1295,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 30,
+          "chars": 1381,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 31,
+          "chars": 1423,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 32,
+          "chars": 1863,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 33,
+          "chars": 1354,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 34,
+          "chars": 663,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 35,
+          "chars": 672,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 36,
+          "chars": 252,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 37,
+          "chars": 1339,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 38,
+          "chars": 1595,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 39,
+          "chars": 371,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 40,
+          "chars": 2653,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 41,
+          "chars": 3159,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 42,
+          "chars": 2917,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 43,
+          "chars": 2446,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 44,
+          "chars": 2448,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 45,
+          "chars": 1077,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 46,
+          "chars": 1608,
+          "counted": false,
+          "reason": "excluded_manual"
+        },
+        {
+          "page": 47,
+          "chars": 836,
+          "counted": false,
+          "reason": "excluded_manual"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "physical_pages": 257,
+    "counted_pages": 221,
+    "total_chars": 553135
+  }
+}
